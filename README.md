@@ -1,8 +1,8 @@
 # Login and Registration Form UI
 
-A responsive login and registration form interface using **HTML, CSS, and JavaScript**.
+A responsive login and registration form interface using **HTML and CSS**.
 
-## 🚀 Features
+## Features
 
 - Toggle between Login and Register forms using a sliding button
 - Clean and modern UI
