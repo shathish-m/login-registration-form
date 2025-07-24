@@ -6,7 +6,7 @@ A responsive login and registration form interface using **HTML and CSS**.
 
 - Toggle between Login and Register forms using a sliding button
 - Clean and modern UI
-- External social icon placeholders (Google, Facebook, Apple, Twitter)
+- External social icon placeholders (Google, Facebook, Apple, Linkedin)
 - Simple JavaScript for form switching
 
 ## 📷 Screenshots
